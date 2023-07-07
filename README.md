@@ -17,7 +17,7 @@ This is the [link](https://eoang.site/) to my website after I deployed it to my 
 
 Before I deploy my website to my personal domain, I first deploy it to Netlify and change the name to [week-4-eoa.netlify.app](https://week-4-eoa03.netlify.app/).
 The status of the deployment is:
-![Netlify deploy status](https://api.netlify.com/api/v1/badges/59f12d5e-9d19-45de-89c3-5c2bb57a9a58/deploy-status)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/59f12d5e-9d19-45de-89c3-5c2bb57a9a58/deploy-status)](https://app.netlify.com/sites/week-4-eoa03/deploys)
 
 #### Step 1
 
